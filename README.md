@@ -8,7 +8,8 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
+![image](https://user-images.githubusercontent.com/67658859/124222794-0b21a200-dac8-11eb-9440-7d0eb4973ce5.png)
+
 
 ### Before You Begin
 
@@ -67,7 +68,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](Images/heatmap.png)
+  ![image](https://user-images.githubusercontent.com/67658859/124222833-1b398180-dac8-11eb-8d03-0132e33cbb52.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
@@ -85,7 +86,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
+![image](https://user-images.githubusercontent.com/67658859/124222866-2d1b2480-dac8-11eb-8835-50dbc1bdf52c.png)
 
 As final considerations:
 
@@ -118,6 +119,3 @@ As final considerations:
 
 * Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
-### Copyright
-
-Trilogy Education Services © 2020. All Rights Reserved.
